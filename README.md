@@ -12,7 +12,7 @@ This plugin has a Economy Kit (Only depents vault), that kit can:
 
 this kit is very useful to make a price for things, like tell or sethome for example.
 
-To see more about the Economy Kit, click here
+To see more about the Economy Kit, [click here](https://github.com/AProject22/Plugin-Development-Essentials-Kit-PDEK-/wiki/Economy-Kit)
 
  
 
@@ -22,7 +22,7 @@ This plugin have kits for database, very usefull to save diverses data, to see m
 
 You can make a unique database SQLite file for plugin, but in this file, is possible to have diverses table, for example: "Register Table" for a register/auth plugin, a "Score Table" for a plugin for Scores
 
-To see more about the DataBase SQLite Kit, click here
+To see more about the DataBase SQLite Kit, [click here](https://github.com/AProject22/Plugin-Development-Essentials-Kit-PDEK-/wiki/SQLite-kit)
 
  
 ## Bstats Kit
@@ -32,14 +32,14 @@ More about BStats in: https://bstats.org/
 
 The Metrics.java class: https://github.com/Bastian/bStats-Metrics/blob/single-file/bukkit/Metrics.java
 
-To see more about this kit click here
+To see more about this kit [click here](https://github.com/AProject22/Plugin-Development-Essentials-Kit-PDEK-/wiki/BStats-kit)
 
  
 ## Spigot Versioning Kit
 And, for now, this Plugin-API have a Spigot Versioning ready to be used in the OnEnable function, only needs you just need that  your plugin has a spigot resource with your own Spigot ID
 
-To see more about this kit click here
+To see more about this kit [click here](https://github.com/AProject22/Plugin-Development-Essentials-Kit-PDEK-/wiki/Spigot-Versioning-Kit)
 
  
 
-You have interest for the PDEK Plugin-API? if yes you can see how to install/implement and use this in your own plugin leaving him more best and useful clicking here
+You have interest for the PDEK Plugin-API? if yes you can see how to install/implement and use this in your own plugin leaving him more best and useful [clicking here](https://github.com/AProject22/Plugin-Development-Essentials-Kit-PDEK-/wiki/PDEK)
