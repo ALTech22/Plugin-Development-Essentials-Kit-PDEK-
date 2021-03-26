@@ -26,12 +26,12 @@ public class PDEK extends JavaPlugin{
 			this.getServer().getConsoleSender().sendMessage(ChatColor.translateAlternateColorCodes('&', "&6|  &chttps://www.spigotmc.org/resources/vault.34315/"));
 			this.getServer().getConsoleSender().sendMessage(ChatColor.translateAlternateColorCodes('&', "&6|  &cAll the economy method return 0 when using Economy Kit without Vault"));
 		}
-		
-		VersionManager.getVersion(this, 88025, Version ->{
+
+		VersionManager.getVersion(this, 90557, Version ->{
 			if (this.getDescription().getVersion().equalsIgnoreCase(Version)){
-			this.getServer().getConsoleSender().sendMessage(ChatColor.translateAlternateColorCodes('&', "&No update avaible for PDEK, Current version: &f " + Version));
+			this.getServer().getConsoleSender().sendMessage(ChatColor.translateAlternateColorCodes('&', "&cNo update avaible for PDEK, Current version: &f " + Version));
 		}else {
-			this.getServer().getConsoleSender().sendMessage(ChatColor.translateAlternateColorCodes('&', "&New update avaible for PDEK, new version: &f" + Version));
+			this.getServer().getConsoleSender().sendMessage(ChatColor.translateAlternateColorCodes('&', "&cNew update avaible for PDEK, new version: &f" + Version));
 		}
 		});
 		

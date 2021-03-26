@@ -1,6 +1,6 @@
 name: PDEK
 main: br.com.alsupremeandrey.PDEK.PDEK
-version: 0.1
+version: 1.0-SNAPSHOT
 api-version: 1.13
 softdepend: [Vault]
 description: A kit for plugin develpment
