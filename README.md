@@ -40,6 +40,14 @@ And, for now, this Plugin-API have a Spigot Versioning ready to be used in the O
 
 To see more about this kit [click here](https://github.com/AProject22/Plugin-Development-Essentials-Kit-PDEK-/wiki/Spigot-Versioning-Kit)
 
+## Configutarion kit:
+
+With this kit you can make and use custom configuration file .yml more easily, to see more about this kit, you can see [clicking here](https://github.com/AProject22/Plugin-Development-Essentials-Kit-PDEK-/wiki/Configuration-kit)
+
+## Scoreboard Creator kit:
+
+With this kit you can make scoreboards more easily, without difficulties, to see how to use this kit, [click here](https://github.com/AProject22/Plugin-Development-Essentials-Kit-PDEK-/wiki/Scoreboard-Creator-Kit)
+
  
 
 You have interest for the PDEK Plugin-API? if yes you can see how to install/implement and use this in your own plugin leaving him more best and useful [clicking here](https://github.com/AProject22/Plugin-Development-Essentials-Kit-PDEK-/wiki/PDEK)
