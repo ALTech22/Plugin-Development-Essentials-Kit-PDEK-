@@ -11,6 +11,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 public class SQLite extends DataBaseManager{
 	String dbname;
+	
     public SQLite(JavaPlugin instance, String dataBaseName){
         super(instance);
         dbname = dataBaseName;

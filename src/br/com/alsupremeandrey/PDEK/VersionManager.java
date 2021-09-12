@@ -11,7 +11,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 import org.bukkit.util.Consumer;
 
 
-public abstract class VersionManager {
+public class VersionManager {
 	
 
 	public static void getVersion(JavaPlugin plugin, int resourceID, final Consumer<String> consumer) {

@@ -5,3 +5,4 @@ bin
 build.ant
 .externalToolBuilders
 target
+pom.xml
