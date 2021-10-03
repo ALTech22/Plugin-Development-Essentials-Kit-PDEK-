@@ -1,10 +1,9 @@
-# Download the plugin
-You can download the plugin in this link:
-[Bukkit/pdek](https://dev.bukkit.org/projects/plugin-development-essentials-kit-pdek)
-
 # Plugin-Development-Essentials-Kit-PDEK-
 The best API for plugin developer, with Economy kit, Database SQLite kit, BStats and Spigot Versioning
 The PDEK (Plugin Development Essentials Kit) is a API for plugins developers, yes, if you're a developer this plugin can help you in diverses way.
+
+You can download the plugin in this link:
+[Bukkit/pdek](https://dev.bukkit.org/projects/plugin-development-essentials-kit-pdek)
 
 ## Economy Kit
 This plugin has a Economy Kit (Only depents vault), that kit can:
